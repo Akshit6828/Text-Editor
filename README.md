@@ -7,7 +7,8 @@ INITIAL VERSION (Basic)
 <h2> SOFTWARE USED FOR DEVELOPEMENT OF PROJECT: </h2>
 BlueJ
 <h3> AUTHORS: </h3>
-- [x] Akshit Mangotra<h1>
+
+-[] Akshit Mangotra<h1>
 
 
 ### User Instructions:
