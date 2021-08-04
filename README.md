@@ -8,7 +8,7 @@ INITIAL VERSION (Basic)
 BlueJ
 <h3> AUTHORS: </h3>
 
--[] Akshit Mangotra<h1>
+- [x] Akshit Mangotra<h1>
 
 
 ### User Instructions:
