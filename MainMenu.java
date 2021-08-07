@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import java.nio.file.*;
-class C1 extends Frame implements ActionListener,KeyListener
+class MainMenu extends Frame implements ActionListener,KeyListener
 {
     MenuBar m;
     Menu m1,m2,m3,m4,m5;
@@ -11,7 +11,7 @@ class C1 extends Frame implements ActionListener,KeyListener
     String undo=" ",str10=" ",str11=" ";
     int final_size=0;
     int count=0;
-    public C1()
+    public MainMenu()
     {   m= new MenuBar();
         m1= new Menu("File");
         m2= new Menu("Edit");

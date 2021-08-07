@@ -5,8 +5,8 @@ public class Q2 extends Dialog implements ActionListener
 {
     Label l1;
     Button b1,b2,b3;
-    C1 k;
-    Q2(C1 p,String tt,boolean rr)
+    MainMenu k;
+    Q2(MainMenu p,String tt,boolean rr)
     {
         super(p,tt,rr);
         k=p;

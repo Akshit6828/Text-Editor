@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Q3
-comment1.params=p\ tt\ rr
-comment1.target=Q3(C1,\ java.lang.String,\ boolean)
-comment2.params=ae
-comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=3

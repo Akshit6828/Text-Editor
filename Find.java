@@ -6,12 +6,12 @@ class Find extends Dialog implements ActionListener
     TextField t1;
     Checkbox c1,c2,c3;
     CheckboxGroup cg;
-    C1 k;
+    MainMenu k;
     int t= -1;
     int count=0,stay=0;
     Button b1,b2;
     String str="",str2="",str1="";
-    public Find(C1 p,String tt,boolean rr)
+    public Find(MainMenu p,String tt,boolean rr)
     {
         super(p,tt,rr);
         k=p;

@@ -7,10 +7,10 @@ class Replace extends Dialog implements ActionListener
     Button b1,b2,b3,b4;
     TextField t1,t2;
     Label l1,l2;
-    C1 k;
+    MainMenu k;
     int t=-1;
     int r=-1;
-    public Replace(C1 p,String tt,boolean rr)
+    public Replace(MainMenu p,String tt,boolean rr)
     {
         super(p,tt,rr);
         k=p;

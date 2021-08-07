@@ -5,9 +5,9 @@ class ViewHelp extends Dialog implements ActionListener
 {
     Label l1;
     Button b1;
-    C1 k;
+    MainMenu k;
     
-    public ViewHelp(C1 p,String tt,boolean rr)
+    public ViewHelp(MainMenu p,String tt,boolean rr)
     {
        super(p,tt,rr);
        k=p;

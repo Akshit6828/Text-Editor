@@ -7,9 +7,9 @@ class Fonts extends Dialog implements ActionListener
    Label l1,l2,l3,l4,l5;
    Choice c1,c2,c3,c4,c5;
    Button b1,b2;
-   C1 p1;
+   MainMenu p1;
    String bcolor,fcolor,face,style,size;
-   Fonts(C1 p,String tt,boolean rr)
+   Fonts(MainMenu p,String tt,boolean rr)
    {
        super(p,tt,rr);
        p1=p;
