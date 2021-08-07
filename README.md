@@ -1,15 +1,15 @@
-<h2 align ="center"> Multi-themed TEXT-EDITOR (Notepad)</h2>
+<h2 align ="center"> MULTI-THEMED TEXT-EDITOR (Notepad)</h2>
 
 <h3> PURPOSE OF PROJECT: </h3>
 
-* To make Editor Text for writing codes in order to test the accuracy of writing code without suggestions.
-* To increase the accuracy of writing code.
+* To make a Text Editor for writing codes in order to test the accuracy without giving suggestions(Unlike Modern IDE's).
+* To increase the accuracy of writing code(Helpful in interviews).
 * To compile and run codes of all languages in the same folder (Saving the time in shifting multiple folders) using CLI.
 * To make a self created text editor.
 
 <h3> VERSION OF PROJECT: </h3>
 
-* VERSION 1.0
+![version](https://img.shields.io/badge/version-1.0-green.svg)
 <h3> SOFTWARE AND OPERATING SYSTEM USED FOR DEVELOPEMENT OF PROJECT: </h3>
 
 * Notepad (Windows)
