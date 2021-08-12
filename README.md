@@ -27,5 +27,5 @@
 * Open terminal (for Mac) or command prompt (for windows ) and navigate to the directory where the project is saved.
 * Run the following command: `java StartNotepad`
 
-🙂 Enjoy the Notepad.
+🙂 Enjoy the Notepad and show some love. ♥ 
 
