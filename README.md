@@ -5,7 +5,7 @@
 * To make a Text Editor for writing codes in order to test the accuracy without giving suggestions(Unlike Modern IDE's).
 * To increase the accuracy of writing code(Helpful in interviews).
 * To compile and run codes of all languages in the same folder (Saving the time in shifting multiple folders) using CLI.
-* To make a self created text editor.
+* To make a self-created text editor.
 
 <h3> VERSION OF PROJECT: </h3>
 
