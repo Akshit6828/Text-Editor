@@ -25,7 +25,7 @@
 * Install JDK 11 or more on the machine.
 * Please make sure that it has applet viewer installed with JDK.
 * Open terminal (for Mac) or command prompt (for windows ) and navigate to the directory where the project is saved.
-* Run the following command: `java StartNotepad`
+* Run the following command: `javac StartNotepad.java` and then run `java StartNotepad`
 
 🙂 Enjoy the Notepad and show some love. ♥ 
 
