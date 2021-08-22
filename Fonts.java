@@ -1,7 +1,8 @@
 import java.awt.*;
 import java.awt.event.*;
-import java.io.*;
-class Fonts extends Dialog implements ActionListener
+import java.awt.event.WindowEvent;  
+import java.awt.event.WindowListener; 
+class Fonts extends Dialog implements ActionListener, WindowListener
 {
    
    Label l1,l2,l3,l4,l5;
@@ -57,8 +58,21 @@ class Fonts extends Dialog implements ActionListener
       add(b2);
       b1.addActionListener(this);
       b2.addActionListener(this);
-    
+
+      addWindowListener(this);   
    }
+
+   public void windowActivated(WindowEvent e) {}  
+    public void windowClosed(WindowEvent e) {}  
+    public void windowClosing(WindowEvent e) {  
+    dispose();  
+    }  
+    public void windowDeactivated(WindowEvent e) {}  
+    public void windowDeiconified(WindowEvent e) {}  
+    public void windowIconified(WindowEvent e) {}  
+    public void windowOpened(WindowEvent arg0) {}
+
+
    public void actionPerformed(ActionEvent ae)
    {
      String str=ae.getActionCommand();
