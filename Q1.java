@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
-public class Q1 extends Dialog implements ActionListener
+public class Q1 extends Dialog implements ActionListener, WindowListener
 {
     Label l1;
     Button b1,b2,b3;
@@ -22,8 +22,20 @@ public class Q1 extends Dialog implements ActionListener
         b1.addActionListener(this);
         b2.addActionListener(this);
         b3.addActionListener(this);
+        addWindowListener(this);
     }
-     public void actionPerformed(ActionEvent ae)
+
+    public void windowActivated(WindowEvent e) {}  
+    public void windowClosed(WindowEvent e) {}  
+    public void windowClosing(WindowEvent e) {  
+    dispose();  
+    }  
+    public void windowDeactivated(WindowEvent e) {}  
+    public void windowDeiconified(WindowEvent e) {}  
+    public void windowIconified(WindowEvent e) {}  
+    public void windowOpened(WindowEvent arg0) {}  
+    
+    public void actionPerformed(ActionEvent ae)
    {
      String str=ae.getActionCommand();
      if(str.equals("Yes Save"))

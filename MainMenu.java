@@ -2,7 +2,9 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import java.nio.file.*;
-class MainMenu extends Frame implements ActionListener,KeyListener
+import java.awt.event.WindowEvent;  
+import java.awt.event.WindowListener; 
+class MainMenu extends Frame implements ActionListener,KeyListener, WindowListener
 {
     MenuBar m;
     Menu m1,m2,m3,m4,m5;
@@ -76,7 +78,23 @@ class MainMenu extends Frame implements ActionListener,KeyListener
         i15.addActionListener(this);
         i16.addActionListener(this);
         t1.addKeyListener(this);
+        addWindowListener(this);
     }
+
+    public void windowActivated(WindowEvent e) {}  
+    public void windowClosed(WindowEvent e) {}  
+    public void windowClosing(WindowEvent e) {  
+    dispose();  
+    }  
+    public void windowDeactivated(WindowEvent e) {}  
+    public void windowDeiconified(WindowEvent e) {}  
+    public void windowIconified(WindowEvent e) {}  
+    public void windowOpened(WindowEvent arg0) {}  
+    
+
+
+
+
      public void keyPressed(KeyEvent ke)
     {
       count=1;
