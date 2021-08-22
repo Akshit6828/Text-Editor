@@ -58,15 +58,14 @@ class Fonts extends Dialog implements ActionListener, WindowListener
       add(b2);
       b1.addActionListener(this);
       b2.addActionListener(this);
-
       addWindowListener(this);   
    }
 
    public void windowActivated(WindowEvent e) {}  
-    public void windowClosed(WindowEvent e) {}  
-    public void windowClosing(WindowEvent e) {  
-    dispose();  
-    }  
+   public void windowClosed(WindowEvent e) {}  
+   public void windowClosing(WindowEvent e) {  
+    this.dispose();  
+   }  
     public void windowDeactivated(WindowEvent e) {}  
     public void windowDeiconified(WindowEvent e) {}  
     public void windowIconified(WindowEvent e) {}  
