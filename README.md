@@ -29,3 +29,25 @@
 
 🙂 Enjoy the Notepad and show some love. ♥ 
 
+--------------------------------------------------------------------------------------------
+
+### Screenshots:
+
+#### Opening and Writing Code in Notepad:
+
+<table>
+        <tr> 
+        <td><img src="Screenshots/1_Opening_Screen.png" width="500"></td>
+        <td><img src="Screenshots/2_ Save Example Java.png" width="700"></td>
+        </tr>
+
+</table>
+
+
+<table>
+        <tr> 
+        <td><img src="Screenshots/3_Welcome Saved.png" width="500"></td>
+        <td><img src="Screenshots/4_Dark Theme Save.png" width="700"></td>
+        </tr>
+</table>
+
