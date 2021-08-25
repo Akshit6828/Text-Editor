@@ -59,6 +59,5 @@
         <tr> 
         <td><img src="Screenshots/6_Find.png" width=1100"></td>
         <td><img src="Screenshots/7_Menu.png" width="1000"></td>
-        <td><img src="Screenshots/5_Dark Theme Yellow Code.png" width="1000"></td>
         </tr>
 </table>
