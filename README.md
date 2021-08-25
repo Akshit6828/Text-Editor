@@ -34,7 +34,7 @@
 ### Screenshots:
 
 #### Opening and Writing Code in Notepad:
-
+<br>
 <table>
         <tr> 
         <td><img src="Screenshots/1_Opening_Screen.png" width="500"></td>
@@ -43,11 +43,13 @@
 
 </table>
 
-
+#### Saving Code written and changing themes as per convenience:
+<br>
 <table>
         <tr> 
-        <td><img src="Screenshots/3_Welcome Saved.png" width="500"></td>
-        <td><img src="Screenshots/4_Dark Theme Save.png" width="700"></td>
+        <td><img src="Screenshots/3_Welcome Saved.png" width=1100"></td>
+        <td><img src="Screenshots/4_Dark Theme Save.png" width="1000"></td>
+        <td><img src="Screenshots/5_Dark Theme Yellow Code.png" width="1000"></td>
         </tr>
 </table>
 
