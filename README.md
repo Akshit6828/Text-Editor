@@ -47,8 +47,10 @@
 <br>
 <table>
         <tr> 
-        <td><img src="Screenshots/3_Welcome Saved.png" width=1100"></td>
-        <td><img src="Screenshots/4_Dark Theme Save.png" width="1000"></td>
+        <td><img src="Screenshots/3_Welcome Saved.png" width=1600"></td>
+        <td><img src="Screenshots/4_Dark Theme Save.png" width="1500"></td>
+        </tr>
+        <tr>
         <td><img src="Screenshots/5_Dark Theme Yellow Code.png" width="1000"></td>
         </tr>
 </table>
