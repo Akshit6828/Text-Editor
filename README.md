@@ -69,7 +69,7 @@
         </tr>
 </table>
 
-#### 3.Compiling Source Code from Terminal:
+#### 4.Compiling Source Code from Terminal:
 
 <table>
         <tr> 
