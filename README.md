@@ -68,3 +68,11 @@
         <td><img src="Screenshots/11_Tools_Features.png" width="900"></td>
         </tr>
 </table>
+
+#### 3.Compiling Source Code from Terminal:
+
+<table>
+        <tr> 
+        <td><img src="Screenshots/8_Compiled.png" width=800"></td>
+        </tr>
+</table>
