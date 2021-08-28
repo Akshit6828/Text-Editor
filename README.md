@@ -61,7 +61,7 @@
         <tr> 
         <td><img src="Screenshots/6_Find.png" width=1100"></td>
         <td><img src="Screenshots/7_Menu.png" width="1000"></td>
-        <td><img src="Screenshots/9_Opening_File.png" width="900"></td>
+        <td><img src="Screenshots/9_Opening_File.png" width="1000"></td>
         </tr>
         <tr>
         <td><img src="Screenshots/10_Edit_Features.png" width="900"></td>
