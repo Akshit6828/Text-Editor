@@ -1,38 +1,12 @@
 <h2 align ="center"> MULTI-THEMED TEXT-EDITOR (Notepad)</h2>
 
-<h4> Puprose of Project: </h4>
+### Table of Contents:
+* [Screenshots](#screenshots)
+* [Purpose of Project](#puprose-of-project)
+* [Project Specks](#project-specks)
+* [User Instructions on how to run this project](user-instructions-on-how-to-run-this-project)
 
-* To make a Text Editor for writing codes in order to test the accuracy without giving suggestions(Unlike Modern IDE's).
-* To increase the accuracy of writing code(Helpful in interviews).
-* To compile and run codes of all languages in the same folder (Saving time in shifting multiple folders) using CLI.
-* To make a self-created text editor.
-
-<h4> Version of Project: </h4>
-
-![version](https://img.shields.io/badge/version-1.0-green.svg)
-<h4> Software and OS Used to Build the project: </h4>
-
-* Notepad (Windows)
-
-<h4> Authors: </h4>
-
-- [x] Akshit Mangotra
-
--------------------------------------------------------------------------------------------
-
-#### User Instructions:
-
-##### How to run this project.
-* Install JDK 11 or more on the machine.
-* Please make sure that it has applet viewer installed with JDK.
-* Open terminal (for Mac) or command prompt (for windows ) and navigate to the directory where the project is saved.
-* Run the following command: `javac StartNotepad.java` and then run `java StartNotepad`
-
-🙂 Enjoy the Notepad and show some love. ♥ 
-
---------------------------------------------------------------------------------------------
-
-#### Screenshots:
+### Screenshots:
 
 #### 1.Opening and Writing Code in Notepad:
 <br>
@@ -76,6 +50,36 @@
 
 <table>
         <tr> 
-        <td><img src="Screenshots/8_Compiled.png" width=800"></td>
+        <td><img src="Screenshots/8_Compiled.png" width="800"></td>
         </tr>
 </table>
+
+
+#### Puprose of Project:
+
+* To make a Text Editor for writing codes in order to test the accuracy without giving suggestions(Unlike Modern IDE's).
+* To increase the accuracy of writing code(Helpful in interviews).
+* To compile and run codes of all languages in the same folder (Saving time in shifting multiple folders) using CLI.
+* To make a self-created text editor.
+
+### Project Specks:
+
+![version](https://img.shields.io/badge/version-1.0-green.svg)
+
+*  **Editor**: Notepad (Windows)
+*  **Author**: Akshit Mangotra
+
+-------------------------------------------------------------------------------------------
+
+### User Instructions on how to run this project:
+
+* Install JDK 11 or more on the machine.
+* Please make sure that it has applet viewer installed with JDK.
+* Open terminal (for Mac) or command prompt (for windows ) and navigate to the directory where the project is saved.
+* Run the following command: `javac StartNotepad.java` and then run `java StartNotepad`
+
+🙂 Enjoy the Notepad and show some love. ♥ 
+
+--------------------------------------------------------------------------------------------
+
+
