@@ -64,8 +64,8 @@
 
 ### Project Specks:
 
-![version](https://img.shields.io/badge/version-1.0-green.svg)
 
+* **Version**: ![version](https://img.shields.io/badge/version-1.0-green.svg)
 *  **Editor**: Notepad (Windows)
 *  **Author**: Akshit Mangotra
 
